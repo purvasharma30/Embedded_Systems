@@ -1,2 +1,9 @@
-# Embedded_Systems
-Embedded Systems - Notes + Previous Year Question Papers (pyq) - VIT VELLORE 
+# Embedded Systems
+
+Notes 
+
+Previous Year Question Papers (pyq) 
+
+Assignments
+
+VIT VELLORE 
